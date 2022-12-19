@@ -48,3 +48,4 @@ Then the game i am presented with displays and i see more information.
 
 Page published at: https://github.com/Claud9855/stardust-crusaders
 
+Deployed: https://gamestart2022.herokuapp.com/
