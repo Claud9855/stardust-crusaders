@@ -42,7 +42,7 @@ When I click on the game,
 
 Then the game i am presented with displays and i see more information.
 
-![GamestartScreen]()
+![GamestartScreen](https://github.com/Claud9855/stardust-crusaders/blob/main/Screen%20Shot%202022-12-19%20at%2012.24.21%20AM.png)
 
 ## Deployed page
 
